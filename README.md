@@ -26,10 +26,15 @@ Train GAT for node classification
 Model	Test Accuracy:
 
 OpenAI	68.71%
+
 Voyage	68.80%
+
 T5-3b	68.71%
+
 Gemini	68.93%
+
 Skip-gram	72.83%
+
 
 
 
