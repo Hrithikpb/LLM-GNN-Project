@@ -9,7 +9,7 @@ import google.ai.generativelanguage as glm
 
 from IPython.display import Markdown
 
-API_KEY = "AIzaSyCLrPw8paXe8cYgWHrWBfG_21tO6pYl7w8"
+API_KEY = "Your_API_Key_Here"
 
 genai.configure(api_key=API_KEY)
 
